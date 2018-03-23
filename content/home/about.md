@@ -22,7 +22,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "MEng in Electrical Engineering"
+  course = "M.Eng in Electrical Engineering"
   institution = "Beijing Institute of Technology"
   year = 2014
 
