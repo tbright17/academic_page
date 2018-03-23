@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Speech and Hearing Science"
   institution = "Arizona State University"
-  year = 2018 (expected)
+  year = 2018
 
 [[education.courses]]
   course = "MEng in Electrical Engineering"
