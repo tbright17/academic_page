@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Ming Tu (屠明)"
-  role = "PhD in Speech Signal Processing and Machine Learning"
+  role = "PhD in Speech Signal Processing"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
