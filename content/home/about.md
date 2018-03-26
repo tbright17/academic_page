@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-Ming Tu is a 4th year PhD student from Arizona State Univeristy. His research focuses on speech signal processing, with great enthusiasm on applying machine learning and deep learning to solve problems including speech enhancement/dereverberation, automatic speech recognition and speech analytics.
+Ming Tu is a 4th year PhD student from Arizona State Univeristy. His research focuses on speech signal processing, with great enthusiasm on applying machine learning and deep learning to solve problems including speech enhancement/dereverberation, automatic speech recognition and speech analytics. Publications are available on [Google Scholar](https://scholar.google.com/citations?user=5BusdUwAAAAJ&hl=en). For further information, Pleae refer to my [CV](https://github.com/tbright17/academic_page/tree/master/static/CV/MingTu_CV.pdf).
